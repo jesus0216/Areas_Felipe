@@ -11,3 +11,5 @@ El usuario selecciona la figura mediante opciones del 1 al 4.
  El programa muestra el resultado del cálculo.
 
 4- Verificar que en jira se haya registrado la actividad en github
+
+esto para el dev
